@@ -16,7 +16,7 @@ public abstract class figuras {
 	//public abstract double area() {
 		
 	public String toString() {
-		return "Soy una figura";
+		return "Era una figura";
 	}
 	
 	}

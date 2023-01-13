@@ -14,7 +14,7 @@ public class CreaFigura {
 		
 		for (figuras f: figuras) {
 			System.out.println(f.perimetro());
-			System.out.println("El perimetro de la figura "+ Rectangulo());
+			System.out.println("El perimetro de la figura");
 			
 		}
 		
